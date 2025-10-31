@@ -1,5 +1,12 @@
 [
     {
+        "name": "miscellany",
+        "author": "73% Geek",
+        "website": "https://73pctgeek.com/",
+        "style_url": "",
+        "thumbnail": ""
+    },
+    {
         "name": "Bearming",
         "author": "Robert Birming",
         "website": "https://robert.bearblog.dev/bearming/",
@@ -11,6 +18,5 @@
         "author": "mighil.com",
         "website": "https://mighil.com/koan-theme-for-bear-blog",
         "style_url": "https://static.mgx.me/bear/themes/koan-v1.0.5.css",
-        "thumbnail": "https://static.mgx.me/images/2024/koan-bear-blog-theme.jpg"
     }
 ]
