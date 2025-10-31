@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Bearming",
+        "author": "Robert Birming",
+        "website": "https://robert.bearblog.dev/bearming/",
+        "style_url": "https://github.com/73pctGeek/BearBlog/blob/main/Bearming.css",
+        "thumbnail": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert-1724585644.png"
+    }
+],
+[
+    {
+        "name": "koan",
+        "author": "mighil.com",
+        "website": "https://mighil.com/koan-theme-for-bear-blog",
+        "style_url": "https://static.mgx.me/bear/themes/koan-v1.0.5.css",
+        "thumbnail": "https://static.mgx.me/images/2024/koan-bear-blog-theme.jpg"
+    }
+]
